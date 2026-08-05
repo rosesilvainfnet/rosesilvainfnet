@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá! 👋 Eu sou a Roseane
 
-<!--
-**rosesilvainfnet/rosesilvainfnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (3º período)
 
-Here are some ideas to get you started:
+💼 Estagiária de Desenvolvimento de Software na Amoedo Materiais de Construção
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+- Laravel (PHP)
+- React Native
+- Python (FastAPI)
+- SQL Server
+- JavaScript
+- HTML & CSS
+- Git
+
+## 💻 Atualmente
+
+🔹 Desenvolvimento de aplicações Web
+
+🔹 Desenvolvimento de APIs REST
+
+🔹 Desenvolvimento Mobile com React Native
+
+🔹 Integração com SQL Server
+
+## 📚 Atualmente estudando
+
+- Arquitetura de Software
+- Laravel
+- React Native
+- Python
+- Banco de Dados
+
+💼 LinkedIn
+
+https://linkedin.com/in/roseane-silva-tech
