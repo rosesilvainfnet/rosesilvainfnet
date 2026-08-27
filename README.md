@@ -1,5 +1,3 @@
-# Olá! 👋 Eu sou a Roseane
-
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (3º período)
 
 💼 Estagiária de Desenvolvimento de Software na Amoedo Materiais de Construção
