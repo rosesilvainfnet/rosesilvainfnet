@@ -1,6 +1,10 @@
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (3º período)
+## Sobre mim
 
-💼 Estagiária de Desenvolvimento de Software na Amoedo Materiais de Construção
+Estudante de Análise e Desenvolvimento de Sistemas e estagiária de Desenvolvimento de Software.
+
+Atualmente trabalho com desenvolvimento de aplicações web, APIs REST e aplicações mobile, utilizando Laravel, PHP, Python/FastAPI, React Native e SQL Server.
+
+Tenho interesse em desenvolvimento backend, integração de sistemas, APIs e arquitetura de software.
 
 ## 🚀 Tecnologias
 
